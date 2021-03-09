@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="no" ?>
+<visuals windowSize="1475,610"/>
+<world gridSize="10,10,10">
+	
+	<blockList color="0,255,0" size="1,1,1" blockSize="40,40,41" >
+		
+		
+		<block position="4,2,3"/>
+		<block position="4,2,4"/>
+		<block position="4,2,5"/>
+		<block position="4,2,6"/>
+		<block position="5,2,3"/>
+		<block position="5,2,4"/>
+		<block position="5,2,5"/>
+		<block position="5,2,6"/>
+		<block position="6,2,3"/>
+		<block position="6,2,4"/>
+		<block position="6,2,5"/>
+		<block position="6,2,6"/>
+		<block position="4,3,3"/>
+		<block position="4,3,4"/>
+		<block position="4,3,5"/>
+		<block position="4,3,6"/>
+		<block position="5,3,3"/>
+		<block position="5,3,4"/>
+		<block position="5,3,5"/>
+		<block position="5,3,6"/>
+		<block position="6,3,3"/>
+		<block position="6,3,4"/>
+		<block position="6,3,5"/>
+		<block position="6,3,6"/>
+		<block position="4,4,3"/>
+		<block position="4,4,4"/>
+		<block position="4,4,5"/>
+		<block position="4,4,6"/>
+		<block position="5,4,3"/>
+		<block position="5,4,4"/>
+		<block position="5,4,5"/>
+		<block position="5,4,6"/>
+		<block position="6,4,3"/>
+		<block position="6,4,4"/>
+		<block position="6,4,5"/>
+		<block position="6,4,6"/>
+		<block position="4,5,3"/>
+		<block position="4,5,4"/>
+		<block position="4,5,5"/>
+		<block position="4,5,6"/>
+		<block position="5,5,3"/>
+		<block position="5,5,4"/>
+		<block position="5,5,5"/>
+		<block position="5,5,6"/>
+		<block position="6,5,3"/>
+		<block position="6,5,4"/>
+		<block position="6,5,5"/>
+		<block position="6,5,6"/>
+                <block position="4,6,3"/>
+                <block position="4,6,4"/>
+                <block position="4,6,5"/>
+                <block position="4,6,6"/>
+                <block position="5,6,3"/>
+                <block position="5,6,4"/>
+                <block position="5,6,5"/>
+                <block position="5,6,6"/>
+                <block position="6,6,3"/>
+                <block position="6,6,4"/>
+                <block position="6,6,5"/>
+                <block position="6,6,6"/>
+                <block position="4,7,3"/>
+                <block position="4,7,4"/>
+                <block position="4,7,5"/>
+                <block position="4,7,6"/>
+                <block position="5,7,3"/>
+                <block position="5,7,4"/>
+                <block position="5,7,5"/>
+                <block position="5,7,6"/>
+                <block position="6,7,3"/>
+                <block position="6,7,4"/>
+                <block position="6,7,5"/>
+                <block position="6,7,6"/>
+                <block position="4,8,3"/>
+                <block position="4,8,4"/>
+                <block position="4,8,5"/>
+                <block position="4,8,6"/>
+                <block position="5,8,3"/>
+                <block position="5,8,4"/>
+                <block position="5,8,5"/>
+                <block position="5,8,6"/>
+                <block position="6,8,3"/>
+                <block position="6,8,4"/>
+                <block position="6,8,5"/>
+                <block position="6,8,6"/>
+                
+                <block position="3,8,3"/>
+                <block position="3,8,4"/>
+                <block position="3,8,5"/>
+                <block position="3,8,6"/>
+                <block position="7,8,3"/>
+                <block position="7,8,4"/>
+                <block position="7,8,5"/>
+                <block position="7,8,6"/>
+                <block position="8,8,3"/>
+                <block position="8,8,4"/>
+                <block position="8,8,5"/>
+                <block position="8,8,6"/>
+                
+                <block position="4,9,3"/>
+                <block position="4,9,4"/>
+                <block position="4,9,5"/>
+                <block position="4,9,6"/>
+                <block position="5,9,3"/>
+                <block position="5,9,4"/>
+                <block position="5,9,5"/>
+                <block position="5,9,6"/>
+                <block position="6,9,3"/>
+                <block position="6,9,4"/>
+                <block position="6,9,5"/>
+                <block position="6,9,6"/>
+ 
+
+ 
+ 
+
+	</blockList>
+</world>
+
+

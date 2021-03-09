@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="no" ?>
+<visuals windowSize="1475,610"/>
+<world gridSize="10,10,10">
+
+	<camera target="200,200,200" directionSpherical="0,70,400" angle="45"/>
+	<spotlight target="200,20,200" directionSpherical="45,60,500" angle="40"/>
+	
+	<blockList color="0,255,0" size="1,1,1" blockSize="40,40,41" >
+		
+		<block position="4,5,0"/>
+		<block position="4,5,1"/>
+		<block position="4,5,2"/>
+
+		<block position="4,4,2"/>
+		<block position="4,3,2"/>
+		<block position="4,2,2"/>
+		
+		<block position="3,5,2"/>
+		<block position="2,5,2"/>
+		<block position="1,5,2"/>
+		
+		<block position="5,5,2"/>
+		<block position="6,5,2"/>
+		<block position="7,5,2"/>
+		
+		<block position="4,5,3"/>
+
+		
+		
+		<block position="4,6,2"/>
+		<block position="4,7,2"/>
+		<block position="4,8,2"/>
+		
+		
+		<block position="4,2,3"/>
+		<block position="4,2,4"/>
+		<block position="4,2,5"/>
+		<block position="4,1,5"/>
+		<block position="3,2,5"/>
+		<block position="5,2,5"/>
+		<block position="4,2,6"/>
+		
+		
+		<block position="4,8,3"/>
+		<block position="4,8,4"/>
+		<block position="4,8,5"/>
+		<block position="5,8,4"/>
+		<block position="3,8,4"/>
+		
+		<block position="7,5,3"/>
+		
+		<block position="1,6,2"/>
+		<block position="1,4,2"/>
+		
+<!-- 
+      		<block position="4,5,4"/>
+		<block position="5,5,4"/>
+		<block position="6,5,4"/>
+		<block position="7,5,4"/> 
+-->
+	</blockList>
+</world>
+
+
