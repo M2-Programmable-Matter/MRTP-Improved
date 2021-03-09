@@ -9,7 +9,7 @@ authors:
 supervisor:
   * [Abdallah Makhoul](https://www.femto-st.fr/en/femto-people/amakhoul) <abdallah.makhoul@univ-fcomte.fr>
 
-Curator:
+curator:
   * Jad Bassil <jad-bassil@hotmail.com>
 
 project relaized in [VisibleSim](https://github.com/VisibleSim/VisibleSim)
